@@ -1,0 +1,21 @@
+@extends('index')
+@section('content')
+    <table>
+        <thead>
+            <th>x</th>
+            <th>x</th>
+            <th>x</th>
+            <th>x</th>
+            <th>x</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+            </tr>
+        </tbody>
+    </table>
+@endsection
